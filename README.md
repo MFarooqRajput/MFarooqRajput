@@ -24,4 +24,3 @@ Here are some ideas to get you started:
 - ⚡ iOS, macOS, watchOS, Android application developer, Machine Learning.
 - ⚡ Swift, Objective C, Kotlin, Java, PHP and Python.
 - ⚡ SQL, MySQL, Oracle
------
