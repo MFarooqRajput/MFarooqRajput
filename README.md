@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [![dev.to badge](https://img.shields.io/badge/LinkedIn-mfarooqrajput-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mfarooqrajput/)
                                                                                               
-- 🔭 With 12+ years of software engineering experience
-- ⚡ iOS, macOS, watchOS, Android application developer, Machine Learning.
-- ⚡ Swift, Objective C, Kotlin, Java, PHP and Python.
-- ⚡ SQL, MySQL, Oracle
+- With 12+ years of software engineering experience
+- iOS, macOS, watchOS, Android application developer, AI/ML, Fullstack development.
+- Swift, Objective C, Kotlin, Java, PHP and Python.
+- SQL, MySQL, Oracle
