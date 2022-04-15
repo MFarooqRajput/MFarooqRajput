@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - With 12+ years of software engineering experience
 - iOS, macOS, watchOS, Android application developer, AI/ML, Fullstack development.
 - Swift, Objective C, Kotlin, Java, PHP and Python.
-- SQL, MySQL, Oracle
+- Oracle, SQL, MySQL, SQLite, Firebase, Coredata
