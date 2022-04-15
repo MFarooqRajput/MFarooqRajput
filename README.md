@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 [![dev.to badge](https://img.shields.io/badge/LinkedIn-mfarooqrajput-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mfarooqrajput/)
                                                                                               
 - With 12+ years of software engineering experience
-- iOS, macOS, watchOS, Android application developer, AI/ML, Fullstack development.
+- Fullstack development
+- iOS, watchOS, macOS, Android Application Development
+- AI/ML, InfoVis/Visual Analytics
 - Swift, Objective C, Kotlin, Java, PHP and Python.
 - Oracle, SQL, MySQL, SQLite, Firebase, Coredata
