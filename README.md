@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 - Fullstack development
 - iOS, watchOS, macOS, Android Application Development
 - AI/ML, InfoVis/Visual Analytics
-- Swift, Objective C, Kotlin, Java, PHP and Python.
+- Objective C, Swift, Java, Python, SQL, PHP
 - Oracle, SQL, MySQL, SQLite, Firebase, Coredata
