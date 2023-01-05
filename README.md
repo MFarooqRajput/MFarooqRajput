@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![dev.to badge](https://img.shields.io/badge/LinkedIn-mfarooqrajput-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mfarooqrajput/)
+
+- Fullstack development
+- iOS, watchOS, macOS, Android Application Development
+- Objective C, Swift, Java, Python, SQL, PHP, Vue.js
+- Oracle, MySQL, SQLite, Firebase, Coredata
+- AI/ML, InfoVis/Visual Analytics
