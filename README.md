@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![dev.to badge](https://img.shields.io/badge/LinkedIn-mfarooqrajput-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mfarooqrajput/)
 
 - Fullstack development
-- iOS, watchOS, macOS, Android Application Development
-- Objective C, Swift, Java, Python, SQL, PHP, Vue.js
-- Oracle, MySQL, SQLite, Firebase, Coredata
-- AI/ML, InfoVis/Visual Analytics
+- iOS, watchOS, macOS, Android Application Development (Objective C, Swift, Java/Kotlin)
+- Web Application Development (HTML, CSS, Javascript, Java, Python, PHP)
+- Database Developer (SQL, Oracle, MySQL, SQLite, Firebase, Coredata)
+- AI/ML, Data Science, InfoVis/Visual Analytics (Python, R)
