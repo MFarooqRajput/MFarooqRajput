@@ -24,10 +24,10 @@ I am an accomplished Software Engineer with 16 years of experience, specializing
 
 🌐 Expertise:
 
-Mobile Development: iOS, watchOS, iPadOS, Android (Objective C, Swift, Java)
+Mobile Development: (iOS, watchOS, iPadOS, Android) Objective C, Swift, Java
 MacOS Development: Objective C
 Web Development: HTML, CSS, VueJS, TypeScript, Python, PHP, Java (Hibernate, Spring, SpringBoot, JPA)
-AI & ML: Artificial Intelligence, Machine Learning, Deep Learning, Information Visualization, Visual Analytics, Computer Vision (Python, R)
+AI & ML: (Artificial Intelligence, Machine Learning, Deep Learning, Information Visualization, Visual Analytics, Computer Vision) Python, R
 Databases: Oracle, MySQL, SQLite, Postgres, Firebase, CoreData
 
 🤝 Leadership:
