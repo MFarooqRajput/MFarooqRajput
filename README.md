@@ -18,36 +18,29 @@ Here are some ideas to get you started:
 
 [![dev.to badge](https://img.shields.io/badge/LinkedIn-mfarooqrajput-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mfarooqrajput/)
 
-🚀 About Me:
-
+🚀 About Me:<br>
 I am an accomplished Software Engineer with 16 years of experience, specializing in diverse areas including mobile, web, and AI technologies. My expertise encompasses managing the full lifecycle of applications from concept to deployment and maintenance.
 
-🌐 Expertise:
-
-Mobile Development: (iOS, watchOS, iPadOS, Android) Objective C, Swift, Java
-MacOS Development: Objective C
-Web Development: HTML, CSS, VueJS, TypeScript, Python, PHP, Java (Hibernate, Spring, SpringBoot, JPA)
-AI & ML: (Artificial Intelligence, Machine Learning, Deep Learning, Information Visualization, Visual Analytics, Computer Vision) Python, R
+🌐 Expertise:<br>
+Mobile Development: (iOS, watchOS, iPadOS, Android) Objective C, Swift, Java<br>
+MacOS Development: Objective C<br>
+Web Development: HTML, CSS, VueJS, TypeScript, Python, PHP, Java (Hibernate, Spring, SpringBoot, JPA)<br>
+AI & ML: (Artificial Intelligence, Machine Learning, Deep Learning, Information Visualization, Visual Analytics, Computer Vision) Python, R<br>
 Databases: Oracle, MySQL, SQLite, Postgres, Firebase, CoreData
 
-🤝 Leadership:
-
-Extensive experience with remote and on-site team management
+🤝 Leadership:<br>
+Extensive experience with remote and on-site team management<br>
 Proven ability to lead cross-functional, globally distributed teams
 
-💼 Pre-Sales Skills:
-
-Expert in requirement gathering, project estimation, and strategic planning
+💼 Pre-Sales Skills:<br>
+Expert in requirement gathering, project estimation, and strategic planning<br>
 Effective in client engagement and ensuring project success
 
-🔍 Achievements:
-
-Successfully launched and optimized numerous mobile and web applications
+🔍 Achievements:<br>
+Successfully launched and optimized numerous mobile and web applications<br>
 Improved processes for enhanced efficiency and performance
 
-📈 Continuous Learning:
-
+📈 Continuous Learning:<br>
 Dedicated to staying ahead of industry trends and continuous professional growth
-
 
 Let's connect! Ready to leverage my diverse capabilities in software development, team leadership, and strategic planning to bring your app vision to life.
